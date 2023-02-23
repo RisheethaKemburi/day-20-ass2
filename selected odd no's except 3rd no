@@ -1,0 +1,12 @@
+#include<stdio.h>
+main(){
+	int i;
+	i=11;
+	while(i<=19){
+		if(i!=15){
+		printf("%d\t",i);
+		}
+		i=i+2;
+	}
+	
+}
